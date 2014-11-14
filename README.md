@@ -1,5 +1,5 @@
-PyBossa photo masking application for Olduvai Gorge Handaxes
-============================================================
+PyBossa photo masking application for the Burley Hoard, Hampshire
+=================================================================
 
 This application has three files:
 
