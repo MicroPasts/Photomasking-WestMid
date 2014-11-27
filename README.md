@@ -1,5 +1,5 @@
-PyBossa photo masking application for the Burley Hoard, Hampshire
-=================================================================
+PyBossa photo masking application for PAS Bronze Age Axes
+=========================================================
 
 This application has three files:
 
